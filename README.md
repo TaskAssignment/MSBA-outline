@@ -20,9 +20,9 @@ In addition, there is another data set for multi-project experiment (using evide
 - 1,712 commit comments
 - 16,414 pull request comments
 
+Here's the data model of our experiments:
 ![Alt text](/Schema.png?raw=true "The data model")
 
-The data model is available at https://github.com/TaskAssignment/MSBA-outline/blob/master/Schema.png
 
 Our bug assignment Java **code**, the **data set** (which is also used as input of our code), **output** and **documentations** can be accessed from: 
 
